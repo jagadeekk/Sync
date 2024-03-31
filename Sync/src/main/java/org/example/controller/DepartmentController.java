@@ -9,6 +9,9 @@ import org.springframework.web.bind.annotation.*;
 import javax.validation.Valid;
 import java.util.List;
 
+/*
+    This is sync 1 updates
+ */
 @RestController
 public class DepartmentController {
     @Autowired
